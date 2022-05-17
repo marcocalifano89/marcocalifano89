@@ -4,4 +4,7 @@ Hi 👋 I’m @marcocalifano89
 
 🌱 I’m currently learning Azure 
 
-📫 How to reach me marcocalifano89@gmail.com
+📫 How to reach me marcocalifano89@gmail.com 
+
+Here my [LinkedIn](https://www.linkedin.com/in/marcocalifano/)
+
